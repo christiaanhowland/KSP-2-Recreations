@@ -1,5 +1,6 @@
 KSP-2 RECREATIONS
-Repository built around saving .json files of KSP-2 recreations of real world rockets.
+
+This is a repository built around saving .json files of KSP-2 recreations of real world rockets.
 Form and function are meant to be kept intact. A V2 rocket recreation should be suborbital, while maintaining the form factor of the real world version.
 
 Scale is what is able to be played with. Basically, so long as a screenshot makes it look close, and it can carry payloads to orbit, it's good.
